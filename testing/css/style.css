@@ -1,0 +1,30 @@
+body {
+    background-color: darkslategray;
+    border: 2px solid yellow;
+    width: 850px;
+    margin: auto;
+}
+.carousel {
+    display: flex;
+    border: 1px solid red;
+    justify-content: center;
+    background-size: contain;
+    height: 70%;
+}
+.div-slider {
+    width: 100%;
+}
+img {
+    width: 100%;
+}
+
+nav {
+    display: flex;
+    border: 1px solid limegreen;
+    height: 100px;
+
+}
+aside {
+    border: 1px solid dodgerblue;
+    width: 33.33%;
+}
